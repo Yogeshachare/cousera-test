@@ -1,0 +1,59 @@
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #000000;
+	text-align: center;
+}
+
+
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	text-align: center;
+	border:	1px solid black;
+	background-color:#FFC300;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+	margin-left: 10%;
+	margin-top: 25px;
+}
+
+#chicken{
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#beef{
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#sushi{
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+}
